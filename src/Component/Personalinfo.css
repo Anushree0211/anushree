@@ -1,0 +1,61 @@
+.ss{
+    margin-top: 20px;
+}
+img  {
+  
+  background-size: cover;
+}
+.tt {
+    margin: 30px;
+    background: rgb(45, 241, 231);
+    border: 1px solid black;
+    outline: 1px solid rgb(8, 8, 8);
+    outline-offset: 3px;
+  }
+  .yy {
+    margin: 30px;
+    background:  rgb(45, 241, 231);
+    border: 1px solid black;
+    outline: 1px solid rgb(8, 8, 8);
+    outline-offset: 3px;
+  }
+
+.Next {
+    background: green;
+    color: white;
+    border-radius: 3px;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 12px;
+  }
+  .Back {
+    background: red;
+    color: white;
+    border-radius: 3px;
+    padding: 10px 12px;
+    text-align: center;
+    font-size: 12px;
+  }
+  
+
+
+.ss{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  
+  .ss {
+    font-family: "Times New Roman", Times, serif;
+    
+  }
+  .ss {
+    font-size: 30px;
+  }
+
+
+
+
+  
